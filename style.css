@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald&family=Pacifico&display=swap');
+
+body {
+    background-color: rgb(195, 246, 246);
+    text-align: center;
+}
+
+.porgandikook {
+    color:indigo;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.pealkiri {
+    color: rgb(224, 138, 156);
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+
+}
+
+.tabel {
+    width: 75%;
+    border: 1px solid; color:rgb(50, 50, 102);
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+
+}
+
+
+.porgandikook ol {
+    text-align: left;
+}
+
+.jalus {
+    color: rgb(224, 138, 156);
+    font-family: 'Oswald', sans-serif;
+
+}
